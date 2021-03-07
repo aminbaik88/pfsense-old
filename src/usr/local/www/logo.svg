@@ -1,0 +1,43 @@
+<svg id="logo" role="img" aria-labelledby="pfsense-logo" x="0px" y="0px" viewBox="0 0 282.8 84.2">
+  <title
+     id="pfsense-logo-svg">pfSense Logo</title>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="27.799999"
+     y="57.700001"
+     id="text3733"><tspan
+       sodipodi:role="line"
+       id="tspan3731"
+       x="27.799999"
+       y="94.193214" /></text>
+  <rect
+     style="fill:#ffffff;stroke-width:1.36324584"
+     id="rect3764"
+     width="288.77463"
+     height="88.62394"
+     x="-0.99577451"
+     y="-0.44084451" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.79999995;stroke-miterlimit:4;stroke-dasharray:none"
+     x="15.932397"
+     y="60.301407"
+     id="text3768"><tspan
+       sodipodi:role="line"
+       id="tspan3766"
+       x="15.932397"
+       y="60.301407"
+       style="letter-spacing:0.15px;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">AZTCO</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.33333206px;line-height:396.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:url(#meshgradient6775);stroke-width:2.52472448;stroke-miterlimit:4;stroke-dasharray:none"
+     x="164.31126"
+     y="63.29718"
+     id="text3772"><tspan
+       sodipodi:role="line"
+       id="tspan3770"
+       x="164.31126"
+       y="63.29718"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.66666794px;line-height:396.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill-opacity:1;stroke:#000000;stroke-width:2.52472448;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke">FW</tspan></text>
+</svg>
