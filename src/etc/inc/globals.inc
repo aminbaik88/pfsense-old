@@ -61,11 +61,15 @@ $g = array(
 	"cf_path" => "/cf",
 	"cf_conf_path" => "/cf/conf",
 	"www_path" => "/usr/local/www",
-	"xml_rootobj" => "pfsense",
+	"xml_rootobj" => "aztcofw",
 	"admin_group" => "admins",
 	"product_name" => "aztcofw",
 	"product_label" => "aztcofw",
+<<<<<<< HEAD
 	"product_label_html" => "Netgate pfSense<sup>&#174;</sup>",
+=======
+	"product_label_html" => "AZTCOFW <sup>&#174;</sup>",
+>>>>>>> 0f267aeb8659a198460d80475632afae576b72c9
 	"product_version" => trim(file_get_contents("/etc/version"), " \n"),
 	"product_copyright_years" => "2004 - ".date("Y"),
 	"disablehelpmenu" => false,
