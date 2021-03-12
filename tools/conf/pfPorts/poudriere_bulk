@@ -14,7 +14,6 @@ emulators/%%PRODUCT_NAME%%-pkg-Open-VM-Tools
 ftp/%%PRODUCT_NAME%%-pkg-FTP_Client_Proxy
 ftp/%%PRODUCT_NAME%%-pkg-tftpd
 mail/%%PRODUCT_NAME%%-pkg-mailreport
-net-mgmt/%%PRODUCT_NAME%%-pkg-Telegraf
 net-mgmt/%%PRODUCT_NAME%%-pkg-arpwatch
 net-mgmt/%%PRODUCT_NAME%%-pkg-bandwidthd
 net-mgmt/%%PRODUCT_NAME%%-pkg-darkstat
@@ -23,14 +22,6 @@ net-mgmt/%%PRODUCT_NAME%%-pkg-net-snmp
 net-mgmt/%%PRODUCT_NAME%%-pkg-nrpe
 net-mgmt/%%PRODUCT_NAME%%-pkg-snmptt
 net-mgmt/%%PRODUCT_NAME%%-pkg-softflowd
-net-mgmt/%%PRODUCT_NAME%%-pkg-zabbix-agent
-net-mgmt/%%PRODUCT_NAME%%-pkg-zabbix-agent4
-net-mgmt/%%PRODUCT_NAME%%-pkg-zabbix-agent5
-net-mgmt/%%PRODUCT_NAME%%-pkg-zabbix-agent52
-net-mgmt/%%PRODUCT_NAME%%-pkg-zabbix-proxy
-net-mgmt/%%PRODUCT_NAME%%-pkg-zabbix-proxy4
-net-mgmt/%%PRODUCT_NAME%%-pkg-zabbix-proxy5
-net-mgmt/%%PRODUCT_NAME%%-pkg-zabbix-proxy52
 net-mgmt/dhcp_probe
 net-mgmt/iprange
 net-mgmt/net-snmp
@@ -38,7 +29,6 @@ net/%%PRODUCT_NAME%%-pkg-Avahi
 net/%%PRODUCT_NAME%%-pkg-LADVD
 net/%%PRODUCT_NAME%%-pkg-Status_Traffic_Totals
 net/%%PRODUCT_NAME%%-pkg-arping
-net/%%PRODUCT_NAME%%-pkg-cellular
 net/%%PRODUCT_NAME%%-pkg-freeradius3
 net/%%PRODUCT_NAME%%-pkg-frr
 net/%%PRODUCT_NAME%%-pkg-haproxy
